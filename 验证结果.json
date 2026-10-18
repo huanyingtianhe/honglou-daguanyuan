@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "/",
+    "/classic"
+  ],
+  "servedFiles": 19,
+  "audioRange": "passed",
+  "bundledNode": true,
+  "networkRequired": false
+}

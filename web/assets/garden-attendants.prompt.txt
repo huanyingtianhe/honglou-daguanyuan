@@ -1,0 +1,15 @@
+Generated with built-in image_gen, 2026-09-27.
+Production portrait sprite atlas for Dream of the Red Chamber garden game.
+Exactly 3 columns x 5 rows, 15 square tiles, no borders, gaps or lettering.
+Classical Chinese gongbi ink and muted mineral watercolor on warm beige parchment.
+One distinct Chinese female attendant per tile, centered head and shoulders,
+simple historical hairpins and clothing, no crowns or modern elements.
+Order left to right, top to bottom:
+Zijuan lavender; Xueyan pale blue twin buns; Yinger amber braid;
+Sheyue sage; Shishu ink blue; Suyun ivory gray;
+Siqi dark plum; Xiuju muted orange; Ruhua pale teal;
+Cuilv spring green; Yuanyang russet; Pinger pale apricot;
+Baoqin dusty rose; Baozhu warm brown; Ruizhu silver blue.
+
+Full prompt:
+Create a production portrait sprite atlas for Dream of the Red Chamber garden game. Exactly 3 columns x 5 rows, 15 equal SQUARE tiles, overall aspect 3:5, edge-to-edge grid with no borders, no gaps, no lettering. Each cell contains ONE distinct young adult Chinese female attendant, head and shoulders, entire hair silhouette inside cell, face centered at same height for circular UI cropping. Classical Chinese gongbi ink and muted mineral watercolor on warm beige parchment, delicate realistic faces, understated historical clothing and simple hairpins, no crowns, no modern elements. Clearly distinguish faces, hair and robes. Order left to right top to bottom: row1 Zijuan thoughtful oval face lavender robe; Xueyan youthful round face pale blue robe twin buns; Yinger cheerful amber robe braided bun. row2 Sheyue calm sage green robe smooth bun; Shishu alert narrow face ink blue robe neat hair; Suyun serene ivory gray robe low bun. row3 Siqi strong confident face dark plum robe high bun; Xiuju gentle freckled face muted orange robe side braid; Ruhua artistic quiet face pale teal robe small double buns. row4 Cuilv lively face spring green robe ribbon braid; Yuanyang resolute face russet robe coiled bun; Pinger poised kind face pale apricot robe graceful bun. row5 Baoqin palace attendant restrained dignity dusty rose robe formal simple bun; Baozhu solemn warm brown robe central parted hair; Ruizhu tender reserved face silver blue robe asymmetrical pin. Consistent soft lighting and parchment background all tiles. Each is an individual portrait not a group scene. No text anywhere.

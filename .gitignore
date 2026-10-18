@@ -1,0 +1,7 @@
+/work/
+/红楼大观园-Windows本地版-20261002/
+.env
+.env.*
+*.log
+Thumbs.db
+.DS_Store
