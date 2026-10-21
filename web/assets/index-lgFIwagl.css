@@ -116,3 +116,12 @@ main.game-shell.story-mode .story-theatre[data-cinema=true] .dialogue-paper:has(
 
 /* keep-dialogue-button-right-20261021 */
 main.game-shell.story-mode .story-theatre .dialogue-controls .continue-story{margin-left:auto;align-self:flex-end}
+
+/* cinema-top-right-autoplay-20261021 */
+main.game-shell.story-mode .story-theatre[data-cinema=true] .scene-heading{padding-right:190px;flex-direction:column;gap:8px}
+.story-theatre[data-cinema=true] .scene-heading .scene-location{max-width:100%;text-align:left}
+.story-theatre[data-cinema=true] .cinema-toolbar{position:absolute;top:24px;right:28px;padding:0;z-index:2}
+.story-theatre[data-cinema=true] .cinema-toolbar button{min-height:44px;white-space:nowrap}
+@media(max-width:760px){main.game-shell.story-mode .story-theatre[data-cinema=true] .scene-heading{padding:20px 132px 12px 16px}.story-theatre[data-cinema=true] .cinema-toolbar{top:16px;right:12px}.story-theatre[data-cinema=true] .cinema-toolbar button{padding:8px 12px;font-size:12px}.story-theatre[data-cinema=true] .scene-heading h2{font-size:23px;letter-spacing:3px}.story-theatre[data-cinema=true] .scene-kicker{overflow-wrap:anywhere}}
+
+.story-theatre[data-cinema=true] .scene-heading .scene-location{display:none}
