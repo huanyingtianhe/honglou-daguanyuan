@@ -113,3 +113,6 @@ main.game-shell.story-mode .story-theatre[data-cinema=true] .dialogue-paper butt
 main.game-shell.story-mode .story-theatre[data-cinema=true] .dialogue-paper:has(.cinema-speaker-avatar){position:relative;padding-left:112px;min-height:112px}
 .story-theatre[data-cinema=true] .cinema-speaker-avatar{display:block;position:absolute;left:24px;top:20px;width:68px;height:68px;object-fit:cover;border-radius:50%;border:1px solid #e6c99488;box-shadow:0 2px 12px #0005}
 @media(max-width:760px){main.game-shell.story-mode .story-theatre[data-cinema=true] .dialogue-paper:has(.cinema-speaker-avatar){padding-left:76px}.story-theatre[data-cinema=true] .cinema-speaker-avatar{left:12px;top:16px;width:48px;height:48px}}
+
+/* keep-dialogue-button-right-20261021 */
+main.game-shell.story-mode .story-theatre .dialogue-controls .continue-story{margin-left:auto;align-self:flex-end}
